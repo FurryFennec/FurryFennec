@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Tony and I'm a server engineer at a medical facility in western Maryland. At home I tinker with a number of computer-related things, including Linux distros, music collection, Proxmox cluster, and Plex libraries.
+
+🌱 I’m currently learning some Powershell, Pascal refresher, and some other interests...
 
 <!--
 **FurryFennec/FurryFennec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
